@@ -1,0 +1,9 @@
+{
+  "id": "com.stupidtree.hitax.resource",
+  "name": "课程资源核心",
+  "version": "0.1.0",
+  "apiVersion": 11,
+  "entryClass": "com.stupidtree.hitax.plugin.ResourceCorePlugin",
+  "capabilities": ["hita.resource.data", "hita.resource.teachers"],
+  "description": "T1 课程资源/教师数据核心"
+}
